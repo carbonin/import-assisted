@@ -1,0 +1,10 @@
+# github.com/openshift/assisted-service v1.0.10-0.20240613161349-9ae7e937d4d1
+## explicit; go 1.20
+github.com/openshift/assisted-service/pkg/thread
+# github.com/sirupsen/logrus v1.9.3
+## explicit; go 1.13
+github.com/sirupsen/logrus
+# golang.org/x/sys v0.19.0
+## explicit; go 1.18
+golang.org/x/sys/unix
+golang.org/x/sys/windows
